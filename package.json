@@ -6,11 +6,11 @@
 		"@sap/cds": "2.3.1"
 	},
 	"dependencies": {
-		"@sap/cloud-samples-foundation": "https://github.com/SAP/cloud-samples-foundation.git#rel-1.0"
+		"@sap/cloud-samples-foundation": "https://github.com/qmacro/cloud-samples-foundation.git#rel-1.0"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/SAP/cloud-samples-catalog.git"
+		"url": "https://github.com/qmacro/cloud-samples-catalog.git"
 	},
 	"scripts": {
 		"build": "cds build --clean"
